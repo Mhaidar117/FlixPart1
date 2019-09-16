@@ -72,7 +72,7 @@ limitations under the License.
 
 ### App Walkthough GIF
 
-<img src=[Imgur](https://i.imgur.com/wtnk49u.gifv) width=250><br>
+<img src=<blockquote class="imgur-embed-pub" lang="en" data-id="a/pfigqKu"><a href="//imgur.com/a/pfigqKu">FlixPart1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> width=250><br>
 
 ### Notes
 I had a difficult time tyring to push it from the terminal. I eventually had to force it (--force). 
