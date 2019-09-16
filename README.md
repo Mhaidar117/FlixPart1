@@ -72,7 +72,7 @@ limitations under the License.
 
 ### App Walkthough GIF
 
-<img src=https://imgur.com/a/pfigqKu width=250><br>
+<img src=[Imgur](https://i.imgur.com/wtnk49u.gifv) width=250><br>
 
 ### Notes
 I had a difficult time tyring to push it from the terminal. I eventually had to force it (--force). 
