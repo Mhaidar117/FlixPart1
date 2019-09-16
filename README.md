@@ -72,7 +72,10 @@ limitations under the License.
 
 ### App Walkthough GIF
 
+https://imgur.com/woxLC0O
+
 <img src=<blockquote class="imgur-embed-pub" lang="en" data-id="a/1Yf0VxT" data-context="false" ><a href="//imgur.com/a/1Yf0VxT"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> width=250>
 
 ### Notes
-I had a difficult time tyring to push it from the terminal. I eventually had to force it (--force). 
+I had a difficult time tyring to push it from the terminal. I eventually had to force it (--force).
+I tried embeding the .gif but after troubleshooting with Jesus, he told me to put the direct link because github may no longer support .gifv
